@@ -1,0 +1,24 @@
+/** Bar chart **/
+#echarts-1 {
+    width: 600px;
+    height:400px;
+    margin: 0px auto;
+}
+/** Coxcomb **/
+#echarts-2 {
+    width: 400px;
+    height:400px;
+    margin: 0px auto;
+}
+/** Line chart **/
+#echarts-3 {
+    width: 600px;
+    height:400px;
+    margin: 0px auto;
+}
+/** Remix: bar chart × line chart **/
+#echarts-4 {
+    width: 600px;
+    height:400px;
+    margin: 0px auto;
+}
